@@ -1,3 +1,12 @@
+## socks5 8080
+
+`pip install urllib3`
+
+`python reGeorgSocksProxy.py ‐p 8080 ‐l 192.168.1.5 ‐u http://192.168.1.119/tunnel.aspx`
+
+
+
+
 reGeorg
 =========
 
